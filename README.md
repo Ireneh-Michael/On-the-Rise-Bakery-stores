@@ -73,6 +73,53 @@ The visualization comprises of 4 pages.
 
 You can interact with the reports [here](https://docs.google.com/spreadsheets/d/1PjKESbE7RmGNQUk4H3MuCyb1kXd1eZMuGrsJr0kmV3w/edit?usp=sharing)
 
+# Analysis
+
+## Actual sales of product by city: 
+
+![](Actual_sales_product.PNG)
+
+Rye bread achieved the highest sales, totaling 872,201 across the three products, outperforming other items in the lineup.
+## Actual sales by city:
+
+![](Actual_Sale_City.PNG)
+
+Hong Kong has the highest sales with 218,803 across the three products compare to other cities, while Sanur has the lowest sales among the 14 cities with a total of 82,051 sales.
+
+## Forecast sales of Product by city:
+
+![](Forecast_Sales_product..PNG)
+
+Cinnamon bun achieved the highest sales, totaling 861,818 across the three products, outperforming the other two products.
+
+## Forecast sales by city: 
+
+![](forecast_Sale_City.PNG)
+
+Singapore has the highest sales with 218,803 across the three products compare to other cities, while Sanur has the lowest sales among the 14 cities with a total of 81,554 sales.
+
+# Conclusion and Recommendations
+
+### Conclusion:
+
+1.	Product Performance: Rye bread has consistently performed well, achieving the highest actual sales across the three products, totaling 872,201. However, the forecast sales indicates that Cinnamon bun is expected to surpass the other products.
+2.	Regional Disparities: Hong Kong stands out with the highest actual and forecast sales among the cities. Conversely, Sanur consistently records lower sales, indicating a potential area for improvement. 🤓
+3.	Surprises and Concerns: There has been lower sales volumes in Shanghai, Seoul, and Kuala Lumpur. These locations need additional support.
+	
+### Recommendations:
+
+1.	Optimize Rye Bread: Continue to emphasize and optimize the sales strategy for Rye bread, considering its consistent high performance. 😄
+2.	Focus on Cinnamon Bun: Given the forecast sales for Cinnamon bun, consider allocating additional resources and marketing efforts to leverage its potential.
+3.	Regional Support: Provide additional support to stores in Shanghai, Seoul, and Kuala Lumpur to address unexpected lower sales. This could include targeted marketing campaigns, promotions, or assessing local factors affecting sales.
+4.	Evaluate Sanur Strategy: Reevaluate the sales strategy for Sanur, considering its consistently lower sales. Explore potential adjustments to the product mix, pricing strategy, or marketing approach tailored to the local market.
+5.	Team Communication: Continue proactive communication with the store teams in Shanghai, Seoul, and Kuala Lumpur. Understand local challenges, gather insights, and collaborate on strategies to boost sales.
+   
+
+   ![](Thank_you.PNG)
+
+
+
+
 
 
 
